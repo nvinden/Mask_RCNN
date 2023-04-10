@@ -5,7 +5,6 @@ cython
 matplotlib
 scikit-image
 tensorflow>=2.2.0
-opencv-python
 h5py
 imgaug
 IPython[all]
